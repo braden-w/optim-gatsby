@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     // edit below
     title: `Optim`,
+    author: `Braden Wong`
     // TODO: Update Description
     description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
     siteUrl: `https://optim.netlify.app/`,
