@@ -7,7 +7,7 @@ module.exports = {
     description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
     siteUrl: `https://optim.netlify.app/`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `bmw02002`,
     },
   },
   plugins: [
